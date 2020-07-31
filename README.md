@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Sobre mim
 
-Olá, eu sou engenheiro de software e atualmente Tech Lead na [@lubysfotware](https://github.com/lubysoftware), com foco principalmente em aplicações em React e React Native. Co-organizo o capítulo do [GDG Londrina](https://gdg.community.dev/gdg-londrina/) há mais de um ano e criei o meetup [React Londrina](https://reactlondrina.now.sh/), a primeira comunidade de React em Londrina. Desenvolvo aplicações web, mobile e back-end há 4 anos e sou grande entusiasta do ecossistema JavaScript, de compartilhamento de conteúdo e da comunidade de desenvolvimento de software no geral.
+Olá, eu sou engenheiro de software e atualmente Tech Lead na [@lubysfotware](https://github.com/lubysoftware), com foco principalmente em aplicações em React,  React Native e TypeScript. Co-organizo o capítulo do [GDG Londrina](https://gdg.community.dev/gdg-londrina/) há mais de um ano e criei o meetup [React Londrina](https://reactlondrina.now.sh/), a primeira comunidade de React em Londrina. Desenvolvo aplicações web, mobile e back-end há 4 anos e sou grande entusiasta do ecossistema JavaScript, de compartilhamento de conteúdo e da comunidade de desenvolvimento de software no geral.
 
 Já fiz contribuições open-source a organizções como [Expo](https://github.com/expo) e [Quasar Framework (Vue.js)](https://github.com/quasarframework), além da criação de bibliotecas open-source.
 
