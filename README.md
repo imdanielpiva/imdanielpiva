@@ -1,35 +1,12 @@
-<img src="https://raw.githubusercontent.com/imdanielpiva/imdanielpiva/master/cover.png" alt="Daniel Piva. Tech Lead and software engineer.">
+# About
 
-<!--
-**imdanielpiva/imdanielpiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently tech lead  at [@tokstok](https://www.tokstok.com.br/) mobile App team.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Sobre mim
-
-Olá, eu sou engenheiro de software e atualmente Tech Lead na [@lubysfotware](https://github.com/lubysoftware), com foco principalmente em aplicações em React,  React Native e TypeScript. Co-organizo o capítulo do [GDG Londrina](https://gdg.community.dev/gdg-londrina/) há mais de um ano e criei o meetup [React Londrina](https://reactlondrina.now.sh/), a primeira comunidade de React em Londrina. Desenvolvo aplicações web e mobile há 4 anos e sou grande entusiasta do ecossistema JavaScript, de compartilhamento de conteúdo e da comunidade de desenvolvimento de software no geral.
-
-Já fiz contribuições open-source a organizações como [Expo](https://github.com/expo) e [Quasar Framework (Vue.js)](https://github.com/quasarframework), além da criação de bibliotecas open-source.
+[React Londrina](https://reactlondrina.now.sh/) Creator<br>
+[GDG Londrina](https://gdg.community.dev/gdg-londrina/) Co-organizer
 
 
-
-#### Algumas das ferramentas que já usei e tenho usado
-
-<img src="https://raw.githubusercontent.com/imdanielpiva/imdanielpiva/master/stack.png" alt="Daniel Piva. Tech Lead and software engineer.">
-
-
-#### Contato
+#### Get in touch
 
 - E-mail: imdanielpiva@gmail.com
-- Twitter: https://twitter.com/imdanielpiva
 - LinkedIn: https://www.linkedin.com/in/imdanielpiva/
